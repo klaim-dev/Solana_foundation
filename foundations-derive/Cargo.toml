@@ -1,0 +1,11 @@
+[package]
+name = "foundations-derive"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+syn ="3"
+quote = "1"
+
+[lib]
+proc-macro = true

@@ -1,0 +1,3 @@
+[workspace]
+members = ["foundations", "foundations-derive"]
+resolver = "2"
