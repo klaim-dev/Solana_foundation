@@ -8,4 +8,5 @@ axum = "0.8.9"
 foundations-derive = {path = "../foundations-derive"}
 sha2 = "0.11.0"
 solana-keypair = "3.1.2"
+solana-pubkey = { version = "3.0.0", features = ["curve25519"] }
 solana-signer = "3.0.1"

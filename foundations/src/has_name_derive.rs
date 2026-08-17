@@ -14,8 +14,6 @@ pub struct Balance {
     amount: u64,
 }
 
-
-
 #[cfg(test)]
 mod tests {
     use super::*;
