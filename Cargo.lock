@@ -362,6 +362,7 @@ name = "foundations"
 version = "0.1.0"
 dependencies = [
  "axum",
+ "digest 0.11.3",
  "foundations-derive",
  "sha2 0.11.0",
  "solana-keypair",
